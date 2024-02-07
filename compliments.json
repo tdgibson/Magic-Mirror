@@ -1,20 +1,18 @@
 {
-  "anytime": [
-    "Hello There"
-  ],
+  "anytime": ["Hey there sexy!"],
   "morning": [
-    "Good Morning",
-    "Have a Great Day",
-    "Let's Go"
+    "Good morning, sunshine!",
+    "Who needs coffee when you have your smile?",
+    "Go get 'em, Tiger!"
   ],
   "afternoon": [
-    "You Rock",
-    "Slay",
-    "Good Afternoon"
+    "Hitting your stride!",
+    "You are making a difference!",
+    "You're more fun than bubble wrap!"
   ],
   "evening": [
-    "Good Evening",
-    "You are Awesome",
-    "The Day is Almost Over"
-  ],
+    "You made someone smile today, I know it.",
+    "You are making a difference.",
+    "The day was better for your efforts."
+  ]
 }
