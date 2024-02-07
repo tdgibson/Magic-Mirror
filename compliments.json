@@ -1,18 +1,18 @@
 {
-  "anytime": ["poo"],
+  "anytime": ["Hello There"],
   "morning": [
-    "test!",
-    "Who needtest?",
-    "Go gtest!"
+    "Good Morning",
+    "Have a Great Day",
+    "Let's Go"
   ],
   "afternoon": [
-    "Hitest!",
-    "You atest",
-    "You're test!"
+    "You Rock",
+    "Slay",
+    "Good Afternoon"
   ],
   "evening": [
-    "You madtest",
-    "You are testce.",
-    "The day wtest."
+    "Good Evening",
+    "You are Awesome",
+    "The Day is Almost Over"
   ]
 }
