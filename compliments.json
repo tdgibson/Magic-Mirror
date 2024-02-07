@@ -1,16 +1,22 @@
 {
-  "anytime": ["Hello There"],
-  "morning": [
+  "anytime": 
+  [
+    "Hello There"
+  ],
+  "morning": 
+  [
     "Good Morning",
     "Have a Great Day",
     "Let's Go"
   ],
-  "afternoon": [
+  "afternoon": 
+  [
     "You Rock",
     "Slay",
     "Good Afternoon"
   ],
-  "evening": [
+  "evening": 
+  [
     "Good Evening",
     "You are Awesome",
     "The Day is Almost Over"
