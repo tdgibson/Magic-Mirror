@@ -1,4 +1,36 @@
 {
+  "morning": [
+    "Good morning! Make it a good one.",
+    "Good morning, family!",
+    "Rise and shine. Or at least rise.",
+    "Today is a clean slate. Try not to spill on it.",
+    "The coffee won't drink itself.",
+    "Make your bed, make your day.",
+    "New day. Fresh build.",
+    "Breakfast first. Seconds count.",
+    "Be kind to the first person you see today. It might be your reflection.",
+    "Today's mission: be a little better than yesterday."
+  ],
+  "afternoon": [
+    "Halfway there. Keep going.",
+    "Afternoon slump? Stand up, stretch, drink some water.",
+    "You've done more than you think. Check the list.",
+    "Still plenty of time to make today count.",
+    "Three o'clock is just a second chance at morning.",
+    "A snack break is a legitimate productivity strategy.",
+    "Take a breath. You're doing fine.",
+    "Go outside for five minutes. The day will wait."
+  ],
+  "evening": [
+    "Good evening. You did enough today.",
+    "The dishes can wait. Family can't.",
+    "Put the phone down. Look up.",
+    "Tomorrow is a fresh build.",
+    "Be proud of today.",
+    "Tell someone you love them before bed.",
+    "Sleep: the original system reboot.",
+    "Lights low. Day done. Well played."
+  ],
   "anytime": [
     "When they go low, We go high.\n - Michelle Obama",
     "It is no bad thing, to celebrate a simple life.\n - J.R.R. Tolkien",
@@ -53,46 +85,325 @@
     "Success is not just about making money. It's about making a difference.\n - Bill Gates",
     "Be a yardstick of quality. Some people aren't used to an environment where excellence is expected.\n - Steve Jobs",
     "Don't be afraid to give up the good to go for the great.\n - John Rockefeller",
-    "I find that the harder I work, the more luck I seem to have.\n - Thomas Jefferson"
-  ],
-  "....-12-24": [
-    "Happy Christmas Eve!"
-  ],
-  "....-03-24": [
-    "Happy Birthday Lucy!"
-  ],
-  "....-10-11": [
-    "Happy Birthday Hailee!"
-  ],
-  "....-09-02": [
-    "Happy Birthday Jake!"
-  ],
-  "....-12-25": [
-    "Merry Christmas!"
+    "I find that the harder I work, the more luck I seem to have.\n - Thomas Jefferson",
+    "Today's forecast: 100% chance of you handling it.",
+    "If at first you don't succeed, check the logs.",
+    "It's probably DNS.",
+    "Measure twice. Print once.",
+    "Imperfection is just authenticity with layer lines.",
+    "Every great build starts with a failed first print.",
+    "Trust the process. Also, check the bed level.",
+    "Have you backed up your photos today? Asking for a friend.",
+    "Turn the music up. The neighbors will understand.",
+    "Home is where the Wi-Fi connects automatically.",
+    "Coffee first. Heroics second.",
+    "You're doing better than your first draft.",
+    "Plot twist: you've got this.",
+    "Look at you, handling things.",
+    "Not all heroes wear capes. Some wear hoodies and fix the router.",
+    "Be the calm in the incident channel.",
+    "Uptime is a lifestyle.",
+    "Sometimes the best fix is a restart.",
+    "Hard things are just easy things you haven't finished yet.",
+    "Save your work. Hug your people.",
+    "The mountains are calling and I must go.\n - John Muir",
+    "Go outside. The graphics are incredible.",
+    "The best time to plant a tree was twenty years ago. The second best time is now.\n - Proverb",
+    "Sunrise is free. Go look at it.",
+    "Every trail teaches you something. Even the short ones.",
+    "Say something kind to someone in this house today.",
+    "Hug someone before you leave.",
+    "Make a memory today. The dishes can wait.",
+    "Love is showing up. Again, and again.",
+    "Alone we can do so little; together we can do so much.\n - Helen Keller",
+    "Be the reason someone in this house smiles today.",
+    "Family dinner is the original social network.",
+    "By small and simple things are great things brought to pass.\n - Alma 37:6",
+    "Men are, that they might have joy.\n - 2 Nephi 2:25",
+    "And let us not be weary in well doing.\n - Galatians 6:9",
+    "Be of good cheer.\n - John 16:33",
+    "Small steps still count as steps.",
+    "Progress, not perfection.",
+    "Today is a good day to be a good person.",
+    "Rest is part of the work.",
+    "You've survived every bad day so far. Great track record."
   ],
   "....-01-01": [
-    "Happy New Year!"
+    "Happy New Year!",
+    "Fresh year, fresh start.",
+    "New year, same awesome you.",
+    "Happy New Year!",
+    "Fresh year, fresh start.",
+    "New year, same awesome you.",
+    "Happy New Year!",
+    "Fresh year, fresh start.",
+    "New year, same awesome you."
   ],
-  "....-10-31": [
-    "Happy Halloween!"
+  "....-02-14": [
+    "Happy Valentine's Day! Tell someone you love them.",
+    "Love is a verb. Do something about it today."
   ],
-  "....-07-13": [
-    "Happy Birthday Ty!"
+  "....-03-14": [
+    "Happy Pi Day! Go get some pie.",
+    "3.14159... and there's pie. Win-win."
+  ],
+  "....-03-24": [
+    "Happy Birthday Lucy!",
+    "Make a wish, Lucy!",
+    "Another trip around the sun, Lucy!",
+    "Today belongs to Lucy!",
+    "Birthday hugs for Lucy!",
+    "Happy Birthday Lucy!",
+    "Make a wish, Lucy!",
+    "Another trip around the sun, Lucy!",
+    "Today belongs to Lucy!",
+    "Birthday hugs for Lucy!",
+    "Happy Birthday Lucy!",
+    "Make a wish, Lucy!",
+    "Another trip around the sun, Lucy!",
+    "Today belongs to Lucy!",
+    "Birthday hugs for Lucy!",
+    "Happy Birthday Lucy!",
+    "Make a wish, Lucy!",
+    "Another trip around the sun, Lucy!",
+    "Today belongs to Lucy!",
+    "Birthday hugs for Lucy!"
+  ],
+  "....-04-01": [
+    "No pranks today. (That's a prank.)",
+    "Happy April Fools' Day! Trust nothing."
+  ],
+  "....-04-22": [
+    "Happy Earth Day! Go plant something.",
+    "Be kind to the planet. It's the only one with pizza."
+  ],
+  "....-05-04": [
+    "May the Fourth be with you!"
+  ],
+  "....-07-04": [
+    "Happy Fourth of July!",
+    "Fireworks, family, and good food. Perfect."
   ],
   "....-07-07": [
-    "Happy Birthday Brookie!"
+    "Happy Birthday Brookie!",
+    "Make a wish, Brookie!",
+    "Another trip around the sun, Brookie!",
+    "Today belongs to Brookie!",
+    "Birthday hugs for Brookie!",
+    "Happy Birthday Brookie!",
+    "Make a wish, Brookie!",
+    "Another trip around the sun, Brookie!",
+    "Today belongs to Brookie!",
+    "Birthday hugs for Brookie!",
+    "Happy Birthday Brookie!",
+    "Make a wish, Brookie!",
+    "Another trip around the sun, Brookie!",
+    "Today belongs to Brookie!",
+    "Birthday hugs for Brookie!",
+    "Happy Birthday Brookie!",
+    "Make a wish, Brookie!",
+    "Another trip around the sun, Brookie!",
+    "Today belongs to Brookie!",
+    "Birthday hugs for Brookie!"
+  ],
+  "....-07-13": [
+    "Happy Birthday Ty!",
+    "Make a wish, Ty!",
+    "Another trip around the sun, Ty!",
+    "Today belongs to Ty!",
+    "Birthday hugs for Ty!",
+    "Happy Birthday Ty!",
+    "Make a wish, Ty!",
+    "Another trip around the sun, Ty!",
+    "Today belongs to Ty!",
+    "Birthday hugs for Ty!",
+    "Happy Birthday Ty!",
+    "Make a wish, Ty!",
+    "Another trip around the sun, Ty!",
+    "Today belongs to Ty!",
+    "Birthday hugs for Ty!",
+    "Happy Birthday Ty!",
+    "Make a wish, Ty!",
+    "Another trip around the sun, Ty!",
+    "Today belongs to Ty!",
+    "Birthday hugs for Ty!"
+  ],
+  "....-07-24": [
+    "Happy Pioneer Day!",
+    "Honor those who came before. Keep building."
   ],
   "....-08-16": [
-    "Happy Anniversary!"
+    "Happy Anniversary!",
+    "Cheers to Ty and Brooke!",
+    "Another year of you two. Nice work.",
+    "Love wins again today.",
+    "Happy Anniversary!",
+    "Cheers to Ty and Brooke!",
+    "Another year of you two. Nice work.",
+    "Love wins again today.",
+    "Happy Anniversary!",
+    "Cheers to Ty and Brooke!",
+    "Another year of you two. Nice work.",
+    "Love wins again today.",
+    "Happy Anniversary!",
+    "Cheers to Ty and Brooke!",
+    "Another year of you two. Nice work.",
+    "Love wins again today."
+  ],
+  "....-09-02": [
+    "Happy Birthday Jake!",
+    "Make a wish, Jake!",
+    "Another trip around the sun, Jake!",
+    "Today belongs to Jake!",
+    "Birthday hugs for Jake!",
+    "Happy Birthday Jake!",
+    "Make a wish, Jake!",
+    "Another trip around the sun, Jake!",
+    "Today belongs to Jake!",
+    "Birthday hugs for Jake!",
+    "Happy Birthday Jake!",
+    "Make a wish, Jake!",
+    "Another trip around the sun, Jake!",
+    "Today belongs to Jake!",
+    "Birthday hugs for Jake!",
+    "Happy Birthday Jake!",
+    "Make a wish, Jake!",
+    "Another trip around the sun, Jake!",
+    "Today belongs to Jake!",
+    "Birthday hugs for Jake!"
+  ],
+  "....-09-19": [
+    "Ahoy! It's Talk Like a Pirate Day!"
+  ],
+  "....-10-11": [
+    "Happy Birthday Hailee!",
+    "Make a wish, Hailee!",
+    "Another trip around the sun, Hailee!",
+    "Today belongs to Hailee!",
+    "Birthday hugs for Hailee!",
+    "Happy Birthday Hailee!",
+    "Make a wish, Hailee!",
+    "Another trip around the sun, Hailee!",
+    "Today belongs to Hailee!",
+    "Birthday hugs for Hailee!",
+    "Happy Birthday Hailee!",
+    "Make a wish, Hailee!",
+    "Another trip around the sun, Hailee!",
+    "Today belongs to Hailee!",
+    "Birthday hugs for Hailee!",
+    "Happy Birthday Hailee!",
+    "Make a wish, Hailee!",
+    "Another trip around the sun, Hailee!",
+    "Today belongs to Hailee!",
+    "Birthday hugs for Hailee!"
+  ],
+  "....-10-31": [
+    "Happy Halloween!",
+    "Boo! Did I scare you?",
+    "Trick or treat!",
+    "Eat some candy. It's the law.",
+    "Happy Halloween!",
+    "Boo! Did I scare you?",
+    "Trick or treat!",
+    "Eat some candy. It's the law.",
+    "Happy Halloween!",
+    "Boo! Did I scare you?",
+    "Trick or treat!",
+    "Eat some candy. It's the law.",
+    "Happy Halloween!",
+    "Boo! Did I scare you?",
+    "Trick or treat!",
+    "Eat some candy. It's the law."
+  ],
+  "....-11-11": [
+    "Thank a veteran today."
+  ],
+  "....-12-24": [
+    "Happy Christmas Eve!",
+    "Almost here. Get some sleep!",
+    "Peace on earth, good will to all.",
+    "Happy Christmas Eve!",
+    "Almost here. Get some sleep!",
+    "Peace on earth, good will to all.",
+    "Happy Christmas Eve!",
+    "Almost here. Get some sleep!",
+    "Peace on earth, good will to all.",
+    "Happy Christmas Eve!",
+    "Almost here. Get some sleep!",
+    "Peace on earth, good will to all."
+  ],
+  "....-12-25": [
+    "Merry Christmas!",
+    "Merry Christmas, family!",
+    "Joy to the world!",
+    "Peace on earth, good will to all.",
+    "Merry Christmas!",
+    "Merry Christmas, family!",
+    "Joy to the world!",
+    "Peace on earth, good will to all.",
+    "Merry Christmas!",
+    "Merry Christmas, family!",
+    "Joy to the world!",
+    "Peace on earth, good will to all.",
+    "Merry Christmas!",
+    "Merry Christmas, family!",
+    "Joy to the world!",
+    "Peace on earth, good will to all."
+  ],
+  "....-12-31": [
+    "Last day of the year. Make it count.",
+    "Look back with gratitude. Look ahead with hope."
   ],
   "day_sunny": [
     "Today is a sunny day",
-    "It's a beautiful day"
+    "It's a beautiful day",
+    "Sun's out. Go be in it.",
+    "Vitamin D is free today.",
+    "Sunglasses weather."
   ],
-  "snow": [
-    "Snowball Battle!"
+  "day_cloudy": [
+    "Cloudy with a chance of great ideas.",
+    "Perfect day for a project."
+  ],
+  "cloudy": [
+    "Gray skies, warm house. Good trade.",
+    "Cozy weather. Make something."
+  ],
+  "cloudy_windy": [
+    "Windy out there. Secure anything you love."
   ],
   "rain": [
-    "Don't forget your umbrella"
+    "Don't forget your umbrella",
+    "Rain today. The yard says thank you.",
+    "Good day for hot chocolate and a good book."
+  ],
+  "showers": [
+    "A few showers. The plants are cheering."
+  ],
+  "thunderstorm": [
+    "Thunder today. Unplug the sensitive stuff.",
+    "Big storm. Great day to stay in and build something."
+  ],
+  "snow": [
+    "Snowball Battle!",
+    "Fresh snow. Check the ski report.",
+    "Snow day energy. Hot cocoa required.",
+    "Shovel first. Then sled."
+  ],
+  "fog": [
+    "Foggy out there. Drive slow, think clear."
+  ],
+  "night_clear": [
+    "Clear night. Go look at the stars.",
+    "The sky is showing off tonight."
+  ],
+  "night_cloudy": [
+    "Cloudy night. The stars are just taking a day off."
+  ],
+  "night_rain": [
+    "Rain on the roof. Best sound there is."
+  ],
+  "night_snow": [
+    "Snow at night. Quiet is a gift."
   ]
 }
