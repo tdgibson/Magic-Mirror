@@ -6,7 +6,8 @@
     "Today is a clean slate. Try not to spill on it.",
     "Make your bed, make your day.",
     "Be kind to the first person you see today. It might be your reflection.",
-    "Today's mission: be a little better than yesterday."
+    "Today's mission: be a little better than yesterday.",
+    "Isn't it nice to think that tomorrow is a new day with no mistakes in it yet?\n - L.M. Montgomery"
   ],
   "afternoon": [
     "Halfway there. Keep going.",
@@ -16,14 +17,17 @@
     "Three o'clock is just a second chance at morning.",
     "A snack break is a legitimate productivity strategy.",
     "Take a breath. You're doing fine.",
-    "Go outside for five minutes. The day will wait."
+    "Go outside for five minutes. The day will wait.",
+    "What I hear when I'm being yelled at is people caring really loudly at me.\n - Leslie Knope",
+    "Take chances, make mistakes, get messy!\n - Ms. Frizzle"
   ],
   "evening": [
     "Good evening. You did enough today.",
     "Put the phone down. Look up.",
     "Be proud of today.",
     "Tell someone you love them before bed.",
-    "Lights low. Day done. Well played."
+    "Lights low. Day done. Well played.",
+    "Courage doesn't always roar. Sometimes courage is the quiet voice at the end of the day saying, 'I will try again tomorrow.'\n - Mary Anne Radmacher"
   ],
   "anytime": [
     "When they go low, We go high.\n - Michelle Obama",
@@ -60,18 +64,13 @@
     "The definition of insanity is doing the same thing over and over again and expecting different results.\n - Unknown/Not Einstein",
     "Believe in your flyness, conquer your shyness.\n - Kanye West",
     "Do things that make you happy. Make sure you prioritise yourself, but do things that make your loved ones happy too.\n - John Stones",
-    "Be the change you wish to see in the world.\n - Mahatma Gandhi",
     "Kindness is a language that the deaf can hear and the blind can see.\n - Mark Twain",
     "In a world when you can be anything, be kind.",
     "Life is 10% what happens to us and 90% how we react to it.\n - Charles R. Swindoll",
-    "Success is not final, failure is not fatal; It is the courage to continue that counts.\n - Winston Churchill",
     "Your time is limited, don't waste it living someone else's life.\n - Steve Jobs",
-    "Success is stumbling from failure to failure with no loss of enthusiasm.\n - Winston Churchill",
-    "The future belongs to those who believe in the beauty of their dreams.\n - Eleanor Roosevelt",
     "Strive not to be a success, but rather to be of value.\n - Albert Einstein",
     "The best way to predict the future is to create it.\n - Peter Drucker",
     "Do not wait for leaders; do it alone, person to person.\n - Mother Teresa",
-    "Be yourself; everyone else is already taken.\n - Oscar Wilde",
     "The greatest glory in living lies not in never failing, but in rising every time we fall.\n - Nelson Mandela",
     "I am always doing things I can't do. That's how I get to do them.\n - Pablo Picasso",
     "You miss 100% of the shots you don't take.\n - Wayne Gretzky",
@@ -79,7 +78,6 @@
     "Success is not just about making money. It's about making a difference.\n - Bill Gates",
     "Be a yardstick of quality. Some people aren't used to an environment where excellence is expected.\n - Steve Jobs",
     "Don't be afraid to give up the good to go for the great.\n - John Rockefeller",
-    "I find that the harder I work, the more luck I seem to have.\n - Thomas Jefferson",
     "Today's forecast: 100% chance of you handling it.",
     "If at first you don't succeed, check the logs.",
     "Imperfection is just authenticity with layer lines.",
@@ -113,7 +111,24 @@
     "Progress, not perfection.",
     "Today is a good day to be a good person.",
     "Rest is part of the work.",
-    "You've survived every bad day so far. Great track record."
+    "You've survived every bad day so far. Great track record.",
+    "Do the best you can until you know better. Then when you know better, do better.\n - Maya Angelou",
+    "Nothing will work unless you do.\n - Maya Angelou",
+    "You must do the thing you think you cannot do.\n - Eleanor Roosevelt",
+    "The most difficult thing is the decision to act, the rest is merely tenacity.\n - Amelia Earhart",
+    "What you do makes a difference, and you have to decide what kind of difference you want to make.\n - Jane Goodall",
+    "Fight for the things that you care about, but do it in a way that will lead others to join you.\n - Ruth Bader Ginsburg",
+    "Courage starts with showing up and letting ourselves be seen.\n - Brené Brown",
+    "Find out who you are and do it on purpose.\n - Dolly Parton",
+    "I am not afraid of storms, for I am learning how to sail my ship.\n - Louisa May Alcott",
+    "There is no charm equal to tenderness of heart.\n - Jane Austen",
+    "A ship in port is safe, but that's not what ships are built for.\n - Grace Hopper",
+    "The most dangerous phrase in the language is 'We've always done it this way.'\n - Grace Hopper",
+    "That brain of mine is something more than merely mortal; as time will show.\n - Ada Lovelace",
+    "Even the smallest person can change the course of the future.\n - Galadriel",
+    "Books! And cleverness! There are more important things: friendship and bravery.\n - Hermione Granger",
+    "Whither thou goest, I will go.\n - Ruth 1:16",
+    "Who knoweth whether thou art come to the kingdom for such a time as this?\n - Esther 4:14"
   ],
   "....-01-01": [
     "Happy New Year!",
@@ -129,6 +144,10 @@
   "....-02-14": [
     "Happy Valentine's Day! Tell someone you love them.",
     "Love is a verb. Do something about it today."
+  ],
+  "....-03-08": [
+    "Happy International Women's Day!",
+    "Here's to the women who built the world we live in."
   ],
   "....-03-14": [
     "Happy Pi Day! Go get some pie.",
@@ -304,6 +323,10 @@
   ],
   "....-11-11": [
     "Thank a veteran today."
+  ],
+  "....-12-09": [
+    "Happy birthday, Grace Hopper! Go debug something.",
+    "Today in 1906: Grace Hopper was born. Thank her for the compiler."
   ],
   "....-12-24": [
     "Happy Christmas Eve!",
